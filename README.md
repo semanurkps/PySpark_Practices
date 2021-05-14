@@ -1,4 +1,4 @@
-# Spark_Practices
+# PySpark_Practices
 
 This repo includes some practices I have gone through when I am learning PySpark.
 
